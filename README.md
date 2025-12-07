@@ -1,4 +1,4 @@
-#  Data Analytics & NLP Portfolio
+#  Data Analytics & NLP Projects
 
 This repository contains multiple data-driven mini-projects showcasing skills across **Data Analysis, Machine Learning, SQL, and NLP**. Each project folder includes scripts, datasets (where permitted), and analysis notebooks to explore real-world problems with effective solutions.
 
